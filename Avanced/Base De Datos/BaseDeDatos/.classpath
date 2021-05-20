@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ivans/Desktop/Java/Librerias/mysql-connector-java-8.0.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivans/Desktop/Java/Librerias/libExcel/poi-3.16/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivans/Desktop/Java/Librerias/libExcel/poi-3.16/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivans/Desktop/Java/Librerias/libExcel/poi-3.16/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivans/Desktop/Java/Librerias/libExcel/poi-3.16/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivans/Desktop/Java/Librerias/libExcel/poi-3.16/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivans/Desktop/Java/Librerias/libJCalendar/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivans/Desktop/Java/Librerias/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivans/Desktop/Java/Librerias/libItext5/itext5-itextpdf-5.5.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivans/Desktop/Java/Librerias/libItext5/itext5-itext-pdfa-5.5.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
