@@ -60,7 +60,7 @@ class LaminaMarcoCliente extends JPanel{
 		public void actionPerformed(ActionEvent e) {
 			try {
 				
-				Socket miSocket = new Socket("192.168.0.231" , 3245);
+				Socket miSocket = new Socket(IP , 3245);
 				
 				//Flujos de Datos
 				DataOutputStream flujoSalida = new DataOutputStream(miSocket.getOutputStream());
